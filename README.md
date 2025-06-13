@@ -25,10 +25,13 @@ This training covers:
 
 | Lecture | Topic                     | Mini Project / Task                    |
 |---------|---------------------------|----------------------------------------|
-| 1       | Basic HTML (<img>,<a>)    | Birthday Card                          |
-| 2       | HTML (<table>)            | Student timetable                      |
-
+| 1       | HTML - img tag & a tag    | Birthday Card                          |
+| 2       | HTML - table tag          | Student Timetable                      |
+| ...     |                           |                                        |
 
 _Projects will be updated as the training progresses._
 
+## 🧠 Reflections
+
+> “Every week, I'll update this README with learnings, challenges faced, and how I solved them — as a log of my growth as a developer.”
 
