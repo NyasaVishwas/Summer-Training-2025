@@ -1,6 +1,6 @@
 # ☀️ Summer Training 2025 – Full Stack MERN + Gen AI (W2Grads | Angaar Hai Batch)
 
-Welcome to my learning repository for the **"Full Stack (MERN) with Gen AI"** summer training conducted by **W2Grads** as part of the **Angaar Hai Batch**. This repository contains all the class lecture codes, notes, and mini-projects developed throughout the program.
+Welcome to my learning repository for the **"Full Stack (MERN) with Gen AI"** summer training conducted by **W2Grads** as part of the **Angaar Batch-FLAMES '25**. This repository contains all the class lecture codes and mini-projects developed throughout the program.
 
 ## 📚 Course Overview
 
@@ -8,11 +8,10 @@ This training covers:
 
 - ✅ Frontend Development (HTML, CSS, JavaScript, React.js)  
 - ✅ Backend Development (Node.js, Express.js)  
-- ✅ Databases (MongoDB, Mongoose)  
+- ✅ Databases (MongoDB)  
 - ✅ Version Control (Git & GitHub)  
 - ✅ Deployment (Netlify, Vercel, Render, etc.)  
-- ✅ Gen AI Tools (OpenAI APIs, LangChain, AI integrations with apps)
-
+- ✅ Gen AI Tools (OpenAI APIs, AI integrations with apps)
 
 ## 🎯 Goals
 
@@ -30,8 +29,4 @@ This training covers:
 | ...     |                           |                                        |
 
 _Projects will be updated as the training progresses._
-
-## 🧠 Reflections
-
-> “Every week, I'll update this README with learnings, challenges faced, and how I solved them — as a log of my growth as a developer.”
 
