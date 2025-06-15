@@ -1,6 +1,6 @@
-# ☀️ Summer Training 2025 – Full Stack MERN + Gen AI (W2Grads | FLAMES '25)
+# ☀️ Summer Training 2025 – Full Stack MERN + Gen AI (W3Grads | FLAMES '25)
 
-Welcome to my learning repository for the **"Full Stack (MERN) with Gen AI"** summer training conducted by **W2Grads** as part of the **The Angaar Batch - FLAMES '25**. This repository contains all the class lecture codes and mini-projects developed throughout the program.
+Welcome to my learning repository for the **"Full Stack (MERN) with Gen AI"** summer training conducted by **W3Grads** as part of the **The Angaar Batch - FLAMES '25**. This repository contains all the class lecture codes and mini-projects developed throughout the program.
 
 ## 📚 Course Overview
 
