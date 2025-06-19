@@ -22,13 +22,13 @@ This training covers:
 
 ## 🚀 Projects & Assignments
 
-| Lecture | Topic                         | Mini Project / Task                    |
-|---------|-------------------------------|----------------------------------------|
-| 1       | HTML - img tag & a tag        | Birthday Card                          |
-| 2       | HTML - table tag              | Student Timetable                      |
-| 3       | CSS - types, selectors, prop. | CSS in Student Timetable               |
-| ...     |                           |                                        |
-| ...     |                           |                                        |
+| Lecture | Topic                                  | Mini Project / Task                    |
+|---------|----------------------------------------|----------------------------------------|
+| 1       | HTML - img tag, a tag                  | Birthday Card                          |
+| 2       | HTML - list, table, form               | Student Timetable                      |
+| 3       | CSS - types, selectors, properties     | CSS in Student Timetable               |
+| 4       | CSS - box model, flex                  | Demo Landing Page (2 img)              |
+| 5       | Git & Github Version Control System    | Push all codes on github               |
 
 _Projects will be updated as the training progresses._
 
