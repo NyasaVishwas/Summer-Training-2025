@@ -22,10 +22,12 @@ This training covers:
 
 ## 🚀 Projects & Assignments
 
-| Lecture | Topic                     | Mini Project / Task                    |
-|---------|---------------------------|----------------------------------------|
-| 1       | HTML - img tag & a tag    | Birthday Card                          |
-| 2       | HTML - table tag          | Student Timetable                      |
+| Lecture | Topic                         | Mini Project / Task                    |
+|---------|-------------------------------|----------------------------------------|
+| 1       | HTML - img tag & a tag        | Birthday Card                          |
+| 2       | HTML - table tag              | Student Timetable                      |
+| 3       | CSS - types, selectors, prop. | CSS in Student Timetable               |
+| ...     |                           |                                        |
 | ...     |                           |                                        |
 
 _Projects will be updated as the training progresses._
