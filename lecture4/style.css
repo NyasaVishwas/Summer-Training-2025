@@ -6,3 +6,14 @@
     margin:40;
     border:2px solid black;
 }
+
+.flex-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    background-color:#F0F0F0;
+    padding:20px;
+    height:150px;
+    gap:20px;
+}
