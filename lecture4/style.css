@@ -17,3 +17,10 @@
     height:150px;
     gap:20px;
 }
+
+.box2{
+    background-color:steelblue;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
