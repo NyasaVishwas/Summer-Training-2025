@@ -2,3 +2,18 @@ span{
     color:purple;
     font-size:30px;
 }
+
+p{
+    color:skyblue;
+    font-size:50px;
+}
+
+#unique{
+    color: #ff7d29;
+    font-size:25px;
+}
+
+.highlight{
+    color:#FFBF78;
+    font-size:25px;
+}
