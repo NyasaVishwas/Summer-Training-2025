@@ -28,7 +28,8 @@ This training covers:
 | 2       | HTML - list, table, form               | Student Timetable                      |
 | 3       | CSS - types, selectors, properties     | CSS in Student Timetable               |
 | 4       | CSS - box model, flex                  | Demo Landing Page (2 img)              |
-| 5       | Git & Github Version Control System    | Push all codes on github               |
+| 5 & 6   | Git & Github Version Control System    | Push all codes on github               |
+| 7       | JS - basic theory                      | NA                                     |
 
 _Projects will be updated as the training progresses._
 
