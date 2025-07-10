@@ -31,26 +31,27 @@
 
 // console.log(a);
 
-//const - cannot be re-declared or re-initialised
+// //const - cannot be re-declared or re-initialised
 
-//Conditional statements
+// //Conditional statements
 
-let looks="good";
-looks="bad";
+// let looks="good";
+// looks="bad";
 
-if (looks=="good"){
-    console.log("good looking");
-} else {
-    console.log("try again");
-}
+// if (looks=="good"){
+//     console.log("good looking"); //not printed
+// } else {
+//     console.log("try again"); //printed
+// }
 
-let num="123";
-let n=123;
+// let num="123";
+// let n=123;
 
-if (num==n){
-    console.log("Same num");
-} 
+// if (num==n){
+//     console.log("Same num"); //printed
+// } 
 
-if (num===n){
-    console.log("Same dtype");
-}
+// if (num===n){
+//     console.log("Same dtype"); //nothing is printed bcz not same dtype
+// }
+
